@@ -1,8 +1,6 @@
 # PRODIGY_WD_01
 
-Here's a sample GitHub README paragraph for your project:
 
----
 
 # Interactive Responsive Landing Page with Fixed Navigation Menu
 
