@@ -18,8 +18,4 @@ This project is a fully responsive landing page with a stylish and interactive n
 - **CSS**: For responsive styling, transitions, and hover effects.
 - **JavaScript**: For adding interactivity to the menu based on scroll position.
 
-Feel free to clone or fork this repository, and customize the code to suit your project needs. Happy coding!
 
----
-
-This text outlines the key features and technologies of your project, making it easy for others to understand and use it from your GitHub repository. Let me know if you want to add more details or sections!
